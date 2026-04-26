@@ -4,7 +4,7 @@ An AI-powered app that identifies creatures found in hostels and campuses
 in Andhra Pradesh and tells you if they are dangerous.
 
 ## Live Demo
-[Click here to try the app](your_huggingface_space_link)
+[Click here to try the app]([your_huggingface_space_link](https://muzakkir-cmd-creature-identifier-ap.hf.space/?__theme=system&deep_link=bVRMoav2LXY))
 
 ## Problem
 Students living in hostels in Andhra Pradesh regularly encounter unknown 
